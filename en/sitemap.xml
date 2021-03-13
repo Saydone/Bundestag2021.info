@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-theme-massively.netlify.com/ueber-uns/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/./ueber-uns/</loc>
   </url><url>
-    <loc>https://hugo-theme-massively.netlify.com/demokratie/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/./demokratie/</loc>
   </url><url>
-    <loc>https://hugo-theme-massively.netlify.com/wahl-o-mat/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/./wahl-o-mat/</loc>
   </url><url>
-    <loc>https://hugo-theme-massively.netlify.com/wahlablauf/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/./wahlablauf/</loc>
   </url><url>
-    <loc>https://hugo-theme-massively.netlify.com/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/./</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-theme-massively.netlify.com/es/"
+                href="https://saydone.github.io/Bundestag2021info/./es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-theme-massively.netlify.com/fr/"
+                href="https://saydone.github.io/Bundestag2021info/./fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-massively.netlify.com/"
+                href="https://saydone.github.io/Bundestag2021info/./"
                 />
   </url>
 </urlset>
