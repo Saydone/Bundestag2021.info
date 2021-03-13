@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/afd/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/afd/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://saydone.github.io/Bundestag2021info/./es/"
+                href="https://saydone.github.io/Bundestag2021info/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://saydone.github.io/Bundestag2021info/./"
+                href="https://saydone.github.io/Bundestag2021info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://saydone.github.io/Bundestag2021info/./fr/"
+                href="https://saydone.github.io/Bundestag2021info/fr/"
                 />
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/die-gruenen/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/die-gruenen/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/die-linke/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/die-linke/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/union/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/union/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/fdp/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/fdp/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/fw/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/fw/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/piratenpartei/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/piratenpartei/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/./fr/spd/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/spd/</loc>
   </url>
 </urlset>
