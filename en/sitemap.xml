@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hugo-theme-massively.netlify.com/ueber-uns/</loc>
+  </url><url>
+    <loc>https://hugo-theme-massively.netlify.com/demokratie/</loc>
+  </url><url>
+    <loc>https://hugo-theme-massively.netlify.com/wahl-o-mat/</loc>
+  </url><url>
+    <loc>https://hugo-theme-massively.netlify.com/wahlablauf/</loc>
+  </url><url>
+    <loc>https://hugo-theme-massively.netlify.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://hugo-theme-massively.netlify.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hugo-theme-massively.netlify.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hugo-theme-massively.netlify.com/"
+                />
+  </url>
+</urlset>
