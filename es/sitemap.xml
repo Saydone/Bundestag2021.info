@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saydone.github.io/Bundestag2021info/es/themen/</loc>
-  </url><url>
     <loc>https://saydone.github.io/Bundestag2021info/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://saydone.github.io/Bundestag2021info/fr/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,8 +10,15 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://saydone.github.io/Bundestag2021info/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://saydone.github.io/Bundestag2021info/es/"
                 />
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/es/klima/</loc>
   </url>
 </urlset>

@@ -4,12 +4,11 @@
   <url>
     <loc>https://saydone.github.io/Bundestag2021info/fr/afd/</loc>
   </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/afdp/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/bp/</loc>
+  </url><url>
     <loc>https://saydone.github.io/Bundestag2021info/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://saydone.github.io/Bundestag2021info/es/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,22 +16,77 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://saydone.github.io/Bundestag2021info/es/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://saydone.github.io/Bundestag2021info/fr/"
                 />
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/fr/die-gruenen/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/diegruenen/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/fr/die-linke/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/buendnisc/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/fr/union/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/bueso/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/cdu_csu/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/dib/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/diegrauen/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/diehumanisten/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/linke/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/diepartei/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/du/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/diebasis/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/dkp/</loc>
   </url><url>
     <loc>https://saydone.github.io/Bundestag2021info/fr/fdp/</loc>
   </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/fr/fw/</loc>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/freiewaehler/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/gesundheitsforschung/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/humanwirtschaftspartei/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/iiiweg/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/lkr/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/menschlichewelt/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/mlpd/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/npd/</loc>
   </url><url>
     <loc>https://saydone.github.io/Bundestag2021info/fr/piratenpartei/</loc>
   </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/sgp/</loc>
+  </url><url>
     <loc>https://saydone.github.io/Bundestag2021info/fr/spd/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/ssw/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/teamtodenhoefer/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/tierschutzallianz/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/tierschutzpartei/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/unabhaengige/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/volt/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/wir2020/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/fr/oedp/</loc>
   </url>
 </urlset>

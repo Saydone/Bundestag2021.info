@@ -2,14 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saydone.github.io/Bundestag2021info/ueber-uns/</loc>
-  </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/demokratie/</loc>
-  </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/wahl-o-mat/</loc>
-  </url><url>
-    <loc>https://saydone.github.io/Bundestag2021info/wahlablauf/</loc>
-  </url><url>
     <loc>https://saydone.github.io/Bundestag2021info/</loc>
     <xhtml:link
                 rel="alternate"
@@ -26,5 +18,9 @@
                 hreflang="en"
                 href="https://saydone.github.io/Bundestag2021info/"
                 />
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/klima/</loc>
+  </url><url>
+    <loc>https://saydone.github.io/Bundestag2021info/wahlomat/</loc>
   </url>
 </urlset>
