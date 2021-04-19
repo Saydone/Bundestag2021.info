@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bundestag2021.info/</loc>
+    <loc>https://hugo-theme-massively.netlify.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://bundestag2021.info/es/"
+                href="https://hugo-theme-massively.netlify.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bundestag2021.info/fr/"
+                href="https://hugo-theme-massively.netlify.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bundestag2021.info/"
+                href="https://hugo-theme-massively.netlify.com/"
                 />
   </url><url>
-    <loc>https://bundestag2021.info/klima/</loc>
+    <loc>https://hugo-theme-massively.netlify.com/klima/</loc>
   </url><url>
-    <loc>https://bundestag2021.info/wahlomat/</loc>
+    <loc>https://hugo-theme-massively.netlify.com/wahlomat/</loc>
   </url>
 </urlset>
