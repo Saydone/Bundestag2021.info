@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bundestag2021.info</title>
-    <link>https://hugo-theme-massively.netlify.com/es/</link>
+    <link>https://bundestag2021.info/es/</link>
     <description>Recent content on Bundestag2021.info</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://hugo-theme-massively.netlify.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language><atom:link href="https://bundestag2021.info/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Klimawandel &amp; Umwelt</title>
-      <link>https://hugo-theme-massively.netlify.com/es/klima/</link>
+      <link>https://bundestag2021.info/es/klima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-theme-massively.netlify.com/es/klima/</guid>
+      <guid>https://bundestag2021.info/es/klima/</guid>
       <description>Test Test Test Testtext: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
