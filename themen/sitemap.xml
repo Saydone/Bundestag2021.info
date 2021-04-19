@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bundestag2021.info/</loc>
+    <loc>https://bundestag2021.info/themen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bundestag2021.info/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="parteien"
@@ -13,14 +18,7 @@
                 hreflang="themen"
                 href="https://bundestag2021.info/themen/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bundestag2021.info/"
-                />
   </url><url>
-    <loc>https://bundestag2021.info/klima/</loc>
-  </url><url>
-    <loc>https://bundestag2021.info/wahlomat/</loc>
+    <loc>https://bundestag2021.info/themen/klima/</loc>
   </url>
 </urlset>
