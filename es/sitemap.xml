@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bundestag2021.info/es/</loc>
+    <loc>https://bundestag2021.info/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://bundestag2021.info/"
+                href="https://bundestag2021.info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://bundestag2021.info/fr/"
+                href="https://bundestag2021.info/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://bundestag2021.info/es/"
+                href="https://bundestag2021.info/es/"
                 />
   </url><url>
-    <loc>http://bundestag2021.info/es/klima/</loc>
+    <loc>https://bundestag2021.info/es/klima/</loc>
   </url>
 </urlset>
