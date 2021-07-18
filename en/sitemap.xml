@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="r_erstkan"
+                href="https://bundestag2021.info/r_erstkan/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="themen"
                 href="https://bundestag2021.info/themen/"
                 />
@@ -19,8 +24,8 @@
                 href="https://bundestag2021.info/"
                 />
   </url><url>
-    <loc>https://bundestag2021.info/klima/</loc>
+    <loc>https://bundestag2021.info/wahlablauf/political_compass/</loc>
   </url><url>
-    <loc>https://bundestag2021.info/wahlomat/</loc>
+    <loc>https://bundestag2021.info/wahlablauf/wahl-o-mat/</loc>
   </url>
 </urlset>

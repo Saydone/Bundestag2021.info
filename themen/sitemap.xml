@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bundestag2021.info/themen/themen/klimaschutz./</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/themen/themen/rassismus/</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/themen/themen/modernisierung/</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/themen/themen/digitalisierung/</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/themen/themen/verm%C3%B6gensschere/</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/themen/themen/migration/</loc>
+  </url><url>
     <loc>https://bundestag2021.info/themen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -15,10 +27,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="r_erstkan"
+                href="https://bundestag2021.info/r_erstkan/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="themen"
                 href="https://bundestag2021.info/themen/"
                 />
-  </url><url>
-    <loc>https://bundestag2021.info/themen/klima/</loc>
   </url>
 </urlset>

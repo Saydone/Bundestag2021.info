@@ -7,317 +7,479 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language><atom:link href="https://bundestag2021.info/parteien/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AfD</title>
-      <link>https://bundestag2021.info/parteien/afd/</link>
+      <title>                                                     CDU</title>
+      <link>https://bundestag2021.info/parteien/parteien/cdu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/afd/</guid>
-      <description>Test Test Test Testtext: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>AfDP</title>
-      <link>https://bundestag2021.info/parteien/afdp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bundestag2021.info/parteien/afdp/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/cdu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BP</title>
-      <link>https://bundestag2021.info/parteien/bp/</link>
+      <title>                                                    SPD</title>
+      <link>https://bundestag2021.info/parteien/parteien/spd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/bp/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/spd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bündnis 90/Die Grünen</title>
-      <link>https://bundestag2021.info/parteien/diegruenen/</link>
+      <title>                                                   DIE LINKE</title>
+      <link>https://bundestag2021.info/parteien/parteien/die_linke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/diegruenen/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/die_linke/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bündnis C</title>
-      <link>https://bundestag2021.info/parteien/buendnisc/</link>
+      <title>                                                  GRÜNE</title>
+      <link>https://bundestag2021.info/parteien/parteien/gr%C3%BCne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/buendnisc/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/gr%C3%BCne/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BüSo</title>
-      <link>https://bundestag2021.info/parteien/bueso/</link>
+      <title>                                                 CSU</title>
+      <link>https://bundestag2021.info/parteien/parteien/csu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/bueso/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/csu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CDU/CSU</title>
-      <link>https://bundestag2021.info/parteien/cdu_csu/</link>
+      <title>                                                FDP</title>
+      <link>https://bundestag2021.info/parteien/parteien/fdp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/cdu_csu/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/fdp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DiB</title>
-      <link>https://bundestag2021.info/parteien/dib/</link>
+      <title>                                               AfD</title>
+      <link>https://bundestag2021.info/parteien/parteien/afd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/dib/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/afd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Die Grauen</title>
-      <link>https://bundestag2021.info/parteien/diegrauen/</link>
+      <title>                                              FREIE WÄHLER</title>
+      <link>https://bundestag2021.info/parteien/parteien/freie_w%C3%A4hler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/diegrauen/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/freie_w%C3%A4hler/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Die Humanisten</title>
-      <link>https://bundestag2021.info/parteien/diehumanisten/</link>
+      <title>                                             BVB/FREIE WÄHLER</title>
+      <link>https://bundestag2021.info/parteien/parteien/bvb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/diehumanisten/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/bvb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Die Linke</title>
-      <link>https://bundestag2021.info/parteien/linke/</link>
+      <title>                                            MENSCHLICHE WELT</title>
+      <link>https://bundestag2021.info/parteien/parteien/menschliche_welt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/linke/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/menschliche_welt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Die PARTEI</title>
-      <link>https://bundestag2021.info/parteien/diepartei/</link>
+      <title>                                           Tierschutzallianz</title>
+      <link>https://bundestag2021.info/parteien/parteien/tierschutzallianz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/diepartei/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/tierschutzallianz/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Die Urbane</title>
-      <link>https://bundestag2021.info/parteien/du/</link>
+      <title>                                          Die PARTEI</title>
+      <link>https://bundestag2021.info/parteien/parteien/die-_partei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/du/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/die-_partei/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>dieBasis</title>
-      <link>https://bundestag2021.info/parteien/diebasis/</link>
+      <title>                                         BP</title>
+      <link>https://bundestag2021.info/parteien/parteien/bp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/diebasis/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/bp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DKP</title>
-      <link>https://bundestag2021.info/parteien/dkp/</link>
+      <title>                                        Gartenpartei</title>
+      <link>https://bundestag2021.info/parteien/parteien/gartenpartei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/dkp/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/gartenpartei/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FDP</title>
-      <link>https://bundestag2021.info/parteien/fdp/</link>
+      <title>                                       Deutsche Konservative</title>
+      <link>https://bundestag2021.info/parteien/parteien/deutsche_konservative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/fdp/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/deutsche_konservative/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Freie Wähler</title>
-      <link>https://bundestag2021.info/parteien/freiewaehler/</link>
+      <title>                                      MLPD</title>
+      <link>https://bundestag2021.info/parteien/parteien/mlpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/freiewaehler/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/mlpd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gesundheitsforschung</title>
-      <link>https://bundestag2021.info/parteien/gesundheitsforschung/</link>
+      <title>                                     III. Weg</title>
+      <link>https://bundestag2021.info/parteien/parteien/iiiweg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/gesundheitsforschung/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/iiiweg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Humanwirtschaftspartei</title>
-      <link>https://bundestag2021.info/parteien/humanwirtschaftspartei/</link>
+      <title>                                    SSW</title>
+      <link>https://bundestag2021.info/parteien/parteien/ssw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/humanwirtschaftspartei/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/ssw/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>III. Weg</title>
-      <link>https://bundestag2021.info/parteien/iiiweg/</link>
+      <title>                                   LIEBE</title>
+      <link>https://bundestag2021.info/parteien/parteien/liebe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/iiiweg/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/liebe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>LKR</title>
-      <link>https://bundestag2021.info/parteien/lkr/</link>
+      <title>                                  Bündnis C</title>
+      <link>https://bundestag2021.info/parteien/parteien/b%C3%BCndnis_c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/lkr/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/b%C3%BCndnis_c/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Menschliche Welt</title>
-      <link>https://bundestag2021.info/parteien/menschlichewelt/</link>
+      <title>                                 UNABHÄNGIGE</title>
+      <link>https://bundestag2021.info/parteien/parteien/unabh%C3%A4ngige/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/menschlichewelt/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/unabh%C3%A4ngige/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MLPD</title>
-      <link>https://bundestag2021.info/parteien/mlpd/</link>
+      <title>                                Die Humanisten</title>
+      <link>https://bundestag2021.info/parteien/parteien/die_humanisten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/mlpd/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/die_humanisten/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NPD</title>
-      <link>https://bundestag2021.info/parteien/npd/</link>
+      <title>                               dieBasis</title>
+      <link>https://bundestag2021.info/parteien/parteien/diebasis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/npd/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/diebasis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Piratenpartei</title>
-      <link>https://bundestag2021.info/parteien/piratenpartei/</link>
+      <title>                              Volt</title>
+      <link>https://bundestag2021.info/parteien/parteien/volt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/piratenpartei/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/volt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SGP</title>
-      <link>https://bundestag2021.info/parteien/sgp/</link>
+      <title>                             Tierschutzpartei</title>
+      <link>https://bundestag2021.info/parteien/parteien/tierschutzpartei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/sgp/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/tierschutzpartei/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SPD</title>
-      <link>https://bundestag2021.info/parteien/spd/</link>
+      <title>                            Team Todenhöfer</title>
+      <link>https://bundestag2021.info/parteien/parteien/team_todenh%C3%B6fer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/spd/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/team_todenh%C3%B6fer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SSW</title>
-      <link>https://bundestag2021.info/parteien/ssw/</link>
+      <title>                           ÖDP</title>
+      <link>https://bundestag2021.info/parteien/parteien/%C3%B6dp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/ssw/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/%C3%B6dp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Team Todenhöfer</title>
-      <link>https://bundestag2021.info/parteien/teamtodenhoefer/</link>
+      <title>                          BüSo</title>
+      <link>https://bundestag2021.info/parteien/parteien/b%C3%BCso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/teamtodenhoefer/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/b%C3%BCso/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tierschutzallianz</title>
-      <link>https://bundestag2021.info/parteien/tierschutzallianz/</link>
+      <title>                         LD</title>
+      <link>https://bundestag2021.info/parteien/parteien/ld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/tierschutzallianz/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/ld/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tierschutzpartei</title>
-      <link>https://bundestag2021.info/parteien/tierschutzpartei/</link>
+      <title>                        WiR2020</title>
+      <link>https://bundestag2021.info/parteien/parteien/wir2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/tierschutzpartei/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/wir2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Unabhängige</title>
-      <link>https://bundestag2021.info/parteien/unabhaengige/</link>
+      <title>                       FAMILIE</title>
+      <link>https://bundestag2021.info/parteien/parteien/familie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/unabhaengige/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/familie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Volt</title>
-      <link>https://bundestag2021.info/parteien/volt/</link>
+      <title>                      Gesundheitsforschung</title>
+      <link>https://bundestag2021.info/parteien/parteien/gesundheitsforschung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/volt/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/gesundheitsforschung/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WiR2020</title>
-      <link>https://bundestag2021.info/parteien/wir2020/</link>
+      <title>                     BÜNDNIS21</title>
+      <link>https://bundestag2021.info/parteien/parteien/b%C3%BCndnis21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/wir2020/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/b%C3%BCndnis21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ÖDP</title>
-      <link>https://bundestag2021.info/parteien/oedp/</link>
+      <title>                    PIRATEN</title>
+      <link>https://bundestag2021.info/parteien/parteien/piraten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/parteien/oedp/</guid>
+      <guid>https://bundestag2021.info/parteien/parteien/piraten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>                   V-Partei³</title>
+      <link>https://bundestag2021.info/parteien/parteien/v-partei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/v-partei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>                  DiB</title>
+      <link>https://bundestag2021.info/parteien/parteien/dib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/dib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>                 NPD</title>
+      <link>https://bundestag2021.info/parteien/parteien/npd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/npd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>                SGV</title>
+      <link>https://bundestag2021.info/parteien/parteien/sgv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/sgv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>               PdF</title>
+      <link>https://bundestag2021.info/parteien/parteien/pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>              B*</title>
+      <link>https://bundestag2021.info/parteien/parteien/b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>             Die Grauen</title>
+      <link>https://bundestag2021.info/parteien/parteien/die_grauen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/die_grauen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>            Graue Panther</title>
+      <link>https://bundestag2021.info/parteien/parteien/graue_panther/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/graue_panther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>           THP</title>
+      <link>https://bundestag2021.info/parteien/parteien/thp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/thp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>          LKR</title>
+      <link>https://bundestag2021.info/parteien/parteien/lkr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/lkr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>         SGP</title>
+      <link>https://bundestag2021.info/parteien/parteien/sgp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/sgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>        Volksabstimmung</title>
+      <link>https://bundestag2021.info/parteien/parteien/volksabstimmung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/volksabstimmung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>       du.</title>
+      <link>https://bundestag2021.info/parteien/parteien/du/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>      BÜRGERBEWEGUNG</title>
+      <link>https://bundestag2021.info/parteien/parteien/b%C3%BCrgerbewegung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/b%C3%BCrgerbewegung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>     LfK</title>
+      <link>https://bundestag2021.info/parteien/parteien/lfk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/lfk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>    DM</title>
+      <link>https://bundestag2021.info/parteien/parteien/dm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>   KlimalisteBW</title>
+      <link>https://bundestag2021.info/parteien/parteien/klimalistebw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/klimalistebw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>  sonstige</title>
+      <link>https://bundestag2021.info/parteien/parteien/sonstige/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/sonstige/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Wir2020</title>
+      <link>https://bundestag2021.info/parteien/parteien/wir2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/parteien/parteien/wir2020/</guid>
       <description></description>
     </item>
     
