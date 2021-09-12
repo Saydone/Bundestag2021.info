@@ -2,7 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bundestag2021.info/wahlablauf/geschichte-bundestag/</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/wahlablauf/warum-waehlen/</loc>
+  </url><url>
+    <loc>https://bundestag2021.info/wahlablauf/funktionsweise-bundestagswahl/</loc>
+  </url><url>
     <loc>https://bundestag2021.info/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="erstkan"
+                href="https://bundestag2021.info/erstkan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gthemen"
+                href="https://bundestag2021.info/gthemen/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="parteien"
@@ -10,21 +26,9 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="r_erstkan"
-                href="https://bundestag2021.info/r_erstkan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="themen"
-                href="https://bundestag2021.info/themen/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://bundestag2021.info/"
                 />
-  </url><url>
-    <loc>https://bundestag2021.info/wahlablauf/political_compass/</loc>
   </url><url>
     <loc>https://bundestag2021.info/wahlablauf/wahl-o-mat/</loc>
   </url>

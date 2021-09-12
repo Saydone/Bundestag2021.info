@@ -7,12 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language><atom:link href="https://bundestag2021.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Political Compass</title>
-      <link>https://bundestag2021.info/wahlablauf/political_compass/</link>
+      <title> Die Geschichte des Bundestages</title>
+      <link>https://bundestag2021.info/wahlablauf/geschichte-bundestag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bundestag2021.info/wahlablauf/political_compass/</guid>
-      <description></description>
+      <guid>https://bundestag2021.info/wahlablauf/geschichte-bundestag/</guid>
+      <description>Erklärvideo    Wann wurde das erst mal der Bundestag gewählt und warum ist der Bundestag heute in Berlin?</description>
+    </item>
+    
+    <item>
+      <title> Warum Wählen wichtig ist!</title>
+      <link>https://bundestag2021.info/wahlablauf/warum-waehlen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/wahlablauf/warum-waehlen/</guid>
+      <description>Erklärvideo    Warum ist es wichtig, dass man wählen geht und was passieren kann wenn man es nicht tut.</description>
+    </item>
+    
+    <item>
+      <title> Wie funktioniert die Bundestagswahl?</title>
+      <link>https://bundestag2021.info/wahlablauf/funktionsweise-bundestagswahl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundestag2021.info/wahlablauf/funktionsweise-bundestagswahl/</guid>
+      <description>Erklärvideo    Wie funktioniert die Bundestagswahl? Warum die Zweitstimme wichtig ist und was Ausgleichs- und Überhangmandate sind.</description>
     </item>
     
     <item>
@@ -21,7 +39,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bundestag2021.info/wahlablauf/wahl-o-mat/</guid>
-      <description></description>
+      <description>Beschreibung &amp;ldquo;39 von 40 Parteien, die mit einer Landesliste zur Wahl antreten, haben die Wahl-O-Mat-Thesen beantwortet. Jetzt sind Sie an der Reihe: Vergleichen Sie Ihre Standpunkte mit den Antworten der Parteien.
+Der Wahl-O-Mat ist keine Wahlempfehlung, sondern ein Informationsangebot über Wahlen und Politik.&amp;rdquo;
+Zitiert nach https://www.wahl-o-mat.de/bundestagswahl2021/app/main_app.html; Stand: 11.09.21
+Website Adresse: www.wahl-o-mat.de</description>
     </item>
     
   </channel>
